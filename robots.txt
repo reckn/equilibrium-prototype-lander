@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://equilibra.app/sitemap.xml
+Sitemap: https://reckn.co/sitemap.xml
